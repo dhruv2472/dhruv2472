@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Script frameworks , php**
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/sarthak-naik-84a058266]
+- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/dhruv-panchal-063aa1184]
 
 - 💬 Ask me about **HTML,CSS,javascript,DATABASE(mySQL),**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/sarthak-naik-84a058266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak naik" height="30" width="40" /></a>
-<a href="https://fb.com/sarthak naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarthak naik" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthak_naik_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_naik_007" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/dhruv-panchal-063aa1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv Panchal" height="30" width="40" /></a>
+<a href="https://fb.com/Dhruv Panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dhruv Panchal" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruv_8320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhruv Panchal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
