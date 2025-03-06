@@ -7,7 +7,7 @@
   
 - 👨‍💻 My projects are available at: **https://in.linkedin.com/in/dhruv-panchal-063aa1184**
 
-- **💬 Ask me about: Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD (Jenkins, GitHub Actions), Cloud (AWS, Azure),**
+<!-- **💬 Ask me about: Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD (Jenkins, GitHub Actions), Cloud (AWS, Azure)**-->
 
 - 📫 How to reach me **d.r.panchal029@gmail.com**
 
