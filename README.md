@@ -20,11 +20,23 @@
 <a href="https://instagram.com/dhruv_8320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhruv Panchal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🚀 Languages & Scripting:</h3>
+<h3 align="left">Languages & Scripting:</h3>
 
 Bash 🐧
 Python 🐍
 YAML 📜
+
+<h3>🔧 DevOps Tools & Technologies:</h3>
+
+Version Control: Git, GitHub, GitLab
+CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
+Infrastructure as Code (IaC): Terraform, CloudFormation
+Configuration Management: Ansible, Chef, Puppet
+Containers & Orchestration: Docker, Kubernetes (K8s)
+Cloud Platforms: AWS, Azure, Google Cloud (GCP)
+Monitoring & Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+Networking & Security: Nginx, Traefik, Istio, Vault
+Artifact Management: Nexus, JFrog Artifactory
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv2472&show_icons=true&locale=en&layout=compact" alt="dhruv2472" /></p>
 
