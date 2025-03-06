@@ -26,7 +26,7 @@
 - **Python 🐍**
 - **YAML 📜**
 
-<h3>🔧 DevOps Tools & Technologies:</h3>
+<h3 align="left">DevOps Tools & Technologies:</h3>
 
 - **Version Control:** Git, GitHub, GitLab
 
