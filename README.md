@@ -3,15 +3,15 @@
 <!-- <img align="right" alt="coding" width="50%"  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv2472&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv2472" /> </p>
 
-- 🚀 I’m currently learning DevOps tools and practices, including CI/CD, Infrastructure as Code (IaC), and containerization.**
+- **🚀 I’m currently learning DevOps tools and practices, including CI/CD, Infrastructure as Code (IaC), and containerization.**
   
-- 👨‍💻 My projects are available at: **LinkedIn Profile**
+- **👨‍💻 My projects are available at: **LinkedIn Profile**
 
-- 💬 Ask me about: Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD (Jenkins, GitHub Actions), Cloud (AWS, Azure),**
+- **💬 Ask me about: Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD (Jenkins, GitHub Actions), Cloud (AWS, Azure),**
 
 - 📫 How to reach me **d.r.panchal029@gmail.com**
 
-- ⚡ Fun fact: I automate everything😄**
+- **⚡ Fun fact: I automate everything😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
