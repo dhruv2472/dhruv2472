@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently learning DevOps tools and practices, including CI/CD, Infrastructure as Code (IaC), and containerization.**
   
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/dhruv-panchal-063aa1184]
+- 👨‍💻 My projects are available at: LinkedIn Profile
 
 - 💬 Ask me about: Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD (Jenkins, GitHub Actions), Cloud (AWS, Azure),**
 
