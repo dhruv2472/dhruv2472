@@ -22,21 +22,21 @@
 
 <h3 align="left">Languages & Scripting:</h3>
 
-Bash 🐧
-Python 🐍
-YAML 📜
+**Bash 🐧**
+**Python 🐍**
+**YAML 📜**
 
 <h3>🔧 DevOps Tools & Technologies:</h3>
 
-Version Control: Git, GitHub, GitLab
-CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
-Infrastructure as Code (IaC): Terraform, CloudFormation
-Configuration Management: Ansible, Chef, Puppet
-Containers & Orchestration: Docker, Kubernetes (K8s)
-Cloud Platforms: AWS, Azure, Google Cloud (GCP)
-Monitoring & Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
-Networking & Security: Nginx, Traefik, Istio, Vault
-Artifact Management: Nexus, JFrog Artifactory
+**Version Control:** Git, GitHub, GitLab
+**CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
+**Infrastructure as Code (IaC):** Terraform, CloudFormation
+**Configuration Management:** Ansible, Chef, Puppet
+**Containers & Orchestration:** Docker, Kubernetes (K8s)
+**Cloud Platforms:** AWS, Azure, Google Cloud (GCP)
+**Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+**Networking & Security:** Nginx, Traefik, Istio, Vault
+**Artifact Management:** Nexus, JFrog Artifactory
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv2472&show_icons=true&locale=en&layout=compact" alt="dhruv2472" /></p>
 
