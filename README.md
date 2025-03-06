@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **d.r.panchal029@gmail.com**
 
-- **⚡ Fun fact: I automate everything😄**
+<!-- **⚡ Fun fact: I automate everything😄**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
