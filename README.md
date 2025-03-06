@@ -22,9 +22,9 @@
 
 <h3 align="left">Languages & Scripting:</h3>
 
-**Bash 🐧**
-**Python 🐍**
-**YAML 📜**
+- **Bash 🐧**
+- **Python 🐍**
+- **YAML 📜**
 
 <h3>🔧 DevOps Tools & Technologies:</h3>
 
